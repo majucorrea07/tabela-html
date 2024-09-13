@@ -1,0 +1,25 @@
+td, th{
+    border: 2px solid;
+    padding: 10px;
+}
+
+table{
+    width: 75%;
+    border-collapse: collapse;
+}
+
+.cinza{
+    background-color: #ebf0fade;
+}
+
+
+.rosa{
+    background-color: #E7516C;
+}
+
+.borda{
+  
+}
+
+
+
